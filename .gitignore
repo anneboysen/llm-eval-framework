@@ -1,0 +1,31 @@
+# Private test data - DO NOT COMMIT
+data/golden_sets/*.jsonl
+!data/golden_sets/example_tests.jsonl
+
+# Results (may contain proprietary test questions)
+*_results.json
+*_results.csv
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ollama models (large files)
+models/
+*.gguf

@@ -1,0 +1,3 @@
+{"id": "EXAMPLE-001", "question": "What is the capital of Norway?", "category": "factual", "expected_keywords": ["Oslo"]}
+{"id": "EXAMPLE-002", "question": "Translate 'hello' to Norwegian", "category": "translation", "expected_keywords": ["hei", "hallo"]}
+{"id": "EXAMPLE-003", "question": "Is 'takk' a polite word in Norwegian?", "category": "cultural", "expected_keywords": ["yes", "thank", "polite"]}
